@@ -1,6 +1,6 @@
 # JavaScript Chess Game
 
-A simple JavaScript chess game by Vithushan.
+A simple JavaScript chess game by Vijeth.
 
 ## Features
 
